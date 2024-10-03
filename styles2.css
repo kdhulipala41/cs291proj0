@@ -42,7 +42,7 @@ img {
 
 /* Styling for the unordered list */
 ul {
-    /*list-style-type: none; Remove default bullets */
+    list-style-type: none; /*Remove default bullets */
     padding: 0;
 }
 
