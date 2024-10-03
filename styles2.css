@@ -34,7 +34,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 200px; /* Adjust width as needed */
+    width: 500px; /* Adjust width as needed */
     height: auto;
     border: 10px solid #e50914; /* Red border around the image for emphasis */
     border-radius: 10px; /* Rounded corners for a modern touch */
@@ -42,7 +42,7 @@ img {
 
 /* Styling for the unordered list */
 ul {
-    list-style-type: none; /* Remove default bullets */
+    /*list-style-type: none; Remove default bullets */
     padding: 0;
 }
 
