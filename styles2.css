@@ -1,0 +1,49 @@
+/* General styling for the body */
+body {
+    font-family: 'Montserrat', sans-serif; /* Use a modern sans-serif font */
+    background-color: #121212; /* Dark black background for a sleek look */
+    color: #f4f4f4; /* Light text color for readability */
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Center all text by default */
+}
+
+/* Styling for the header */
+header {
+    background-color: #e50914; /* Vibrant red for header */
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+    letter-spacing: 2px; /* Add spacing between letters for a stylish effect */
+    text-transform: uppercase; /* Make the header title uppercase */
+    margin: 0;
+}
+
+/* Section titles styling */
+h2 {
+    font-size: 2rem;
+    color: #e50914; /* Use red for section titles */
+    margin-bottom: 10px;
+}
+
+/* Styling for the image */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500%; /* Adjust width as needed */
+    height: auto;
+    border: 4px solid #e50914; /* Red border around the image for emphasis */
+    border-radius: 10px; /* Rounded corners for a modern touch */
+}
+
+/* Styling for the unordered list */
+ul {
+    list-style-type: none; /* Remove default bullets */
+    padding: 0;
+}
+
+
